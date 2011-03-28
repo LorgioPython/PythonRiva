@@ -1,0 +1,29 @@
+Comandos de git
+
+git bisect --> encuentra via busqueda binaria el cambio que introdujo un error.
+
+git fetch --> descargar objetos desde otro repositorio.
+
+git mv --> mueve o renombra un archivo, repositorio, o symlink
+
+git rm --> remover archivos de el arbol en que se esta trabajando y de el indice
+
+git log --> mostrar registro de commits
+
+git clone --> clona repositorio en un nuevo directorio.
+
+git push--> actualiza refs remotos junto con objetos asociados,
+
+git show --> muestra varios tipos de objetos
+
+git merge--> para fusionar ramas locales.
+
+git rebase--> para mantener topic branches.
+
+git tag --> para etiquetar un punto conocido.
+
+git add -->para manejar el archivo indice.
+
+git diff y git-status-->para ver cambios realizados y el estado actual.
+
+git commit --> para avanzar en la misma rama.
